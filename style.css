@@ -5,7 +5,9 @@
 }
 
 body {
-    background-color: #7bdaf3;
+    background-image: url("./notes.jpg");
+    background-size: cover;
+    /* background-color: #7bdaf3; */
     display: flex;
     flex-wrap: wrap;
     font-family: "Poppins", sans-serif;
